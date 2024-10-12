@@ -1,0 +1,460 @@
+*{
+    margin: 0;
+    padding: 0;
+   }
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+   }
+
+.head-ab > img {
+    padding: 20px;
+}
+
+.head-abc{
+    display: flex;
+    list-style: none;
+    font-size: 15px;
+    margin-left: 170px;
+}
+
+.head-abc > li {
+    margin: 10px;
+    padding: 20px;
+    
+}
+.head-abc > li > a{
+    text-decoration: 0;
+    color: #00402F;
+
+}
+.loginbutton {
+ margin-left: 50px;
+}
+
+.SignButton {
+    background-color: #00402F;
+    line-height: 75px; 
+    width: 240px;
+    margin-left: 50px;
+    margin-left: 10px;
+}
+
+.greenbutt{
+    color: white;
+    text-decoration: 0;
+    padding-left: 10px;
+}
+
+.Block1 {
+    display: flex;
+    background-color: #668C82;
+    padding-top: 60px;
+    padding-left: 140px;
+    height: 675px;
+    max-width: 1920px;
+}
+
+.spawn {
+    color: white;
+    font-size: 75px;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+
+.spawn-2 {
+    color: white;
+    padding-top: 30px;
+    padding-left: 70px;
+}
+
+
+.textt {
+    list-style: none;
+}
+
+.textt > li {
+    color: white;
+    padding-top: 25px;
+    padding-left: 95px;
+}
+
+.Button {
+    margin-top: 40px;
+}
+
+.Buttt {
+    text-decoration: 0;
+    color: #00402F;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 70px;
+    font-weight: bold;
+}
+
+.Block2 {
+    display: flex;
+    justify-content: space-around;
+    background-color:#849ACB;
+    padding-top: 60px;
+    padding-left: 140px;
+    height: 500px;
+    max-width: 1920px;
+}
+
+.mission {
+    color: rgb(255, 255, 255);
+    padding-top: 60px;
+   font-size: 15px;
+}
+
+.txet { 
+    padding-top: 40px;
+    max-width: 565px;
+    color: white;
+    font-size: 40px;
+}
+
+.Block2 > div > img {
+    width: 400px;
+    height: 400px;
+    padding-right: 40px;
+}
+
+.Button0 {
+    margin-top: 40px;
+}
+
+.But1 {
+    text-decoration: 0;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 50px;
+    background-color: #849ACB;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 0px;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    padding: 1px 30px;
+}
+
+.infinity { 
+    padding-top: 180px;
+    max-width: 30px;
+    max-height: 15px;
+}
+
+.Block3 {
+    display: flex;
+    padding-top: 60px;
+    padding-left: 500px;
+    height: 500px;
+    max-width: 1920px;
+    background-color: #FFF4E3;
+}
+
+.Block3 > img {
+    height: 400px;
+}
+
+.text1 {
+    padding-left: 70px;
+    width: 490px;
+    height: 165px;
+    font-size: 45px;
+    color: #00402F;
+}
+
+.text2 {
+    padding-left: 70px;
+    color: #00402F;
+    width: 470px;
+}
+
+.Button2 {
+    margin-top: 40px;
+    font-style: Masvol;
+}
+
+.But2 {
+    text-decoration: 0;
+    color: white;
+    border-radius: 80px;
+    background-color: #00402F;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 70px;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    padding: 1px 50px;
+}
+
+.Block4 {
+    display: inline-block;
+    padding-top: 60px;
+    padding-left: 140px;
+    height: 400px;
+    max-width: 1920px;
+    text-align: center;
+}
+
+.Block4 > div > p {
+    font-size: 40px;
+    width: 690px;
+    color: #00402F;
+    padding-left: 500px;
+}
+
+.Block4 > div > img {
+    padding-left: 500px;
+    padding-top: 90px;
+}
+
+.Jenshina {
+    font-size: 20px;
+    color: #00402F;
+    padding-left: 500px;
+}
+
+.Block5 {
+    display: flex;
+    padding-top: 100px;
+    padding-left: 500px;
+    height: 400px;
+    max-width: 1920px;
+    text-align: center;
+}
+
+.Block5 > div > img {
+    height: 400px;
+}
+
+.Text-block1 {
+    padding-top: 20px;
+}
+
+.text-block2 {
+    padding-left: 70px;
+    width: 490px;
+    font-size: 40px;
+    color: #00402F;
+    text-align: left;
+    padding-top: 100px;
+}
+
+.text-block3 {
+    text-align: left;
+    padding-left: 70px;
+    color: #00402F;
+    width: 460px;
+    font-size: 16px;
+    padding-top: 30px;
+}
+
+.infinity1 {
+    max-width: 30px;
+    max-height: 15px;
+    padding-left: 950px;
+    padding-top: 80px;
+}
+
+.Block5chast2 {
+    display:flex;
+    padding-top: 100px;
+    padding-left: 400px;
+    height: 400px;
+    max-width: 1920px;
+}
+
+.text1-1 {
+    padding-top: 190px;
+    padding-left: 70px;
+    width: 540px;
+    height: 70px;
+    font-size: 35px;
+    color: #00402F;
+}
+
+.text2-2 {
+    padding-left: 70px;
+    color: #00402F;
+    width: 445px;
+    font-size: 16px;
+}
+
+.kartochki {
+    padding-left: 50px;
+    height: 500px;
+}
+
+.infinity2 {
+    max-width: 30px;
+    max-height: 15px;
+    padding-left: 950px;
+    padding-top: 150px;
+}
+
+.Yoga {
+    width: 500px;
+    padding-left: 300px;
+    padding-top: 0px;
+}
+
+.Block5chast3 {
+    display:flex;
+    padding-top: 100px;
+    padding-left: 140px;
+    height: 400px;
+    max-width: 1920px;
+}
+
+.text-first {
+    padding-top: 110px;
+    padding-left: 60px;
+    width: 450px;
+    font-size: 40px;
+    color: #00402F;
+    text-align: left;
+}
+
+.text-second {
+    text-align: left;
+    padding-left: 70px;
+    color: #00402F;
+    width: 410px;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.SS {
+    max-width: 30px;
+    max-height: 25px;
+    padding-left: 950px;
+    padding-top: 150px;
+    margin-bottom: 75px;
+}
+
+.Block6 {
+    display:flex;
+    padding-top: 100px;
+    padding-left: 50px;
+    height: 400px;
+    max-width: 1920px;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    background-color: #e9e0d2;
+}
+
+.Block6 > div > img {
+    width: 320px;
+}
+
+.Block7 {
+    height: 600px;
+    max-width: 1920px;
+    background-color: #522840;
+    text-align: center;
+}
+
+.Block7 > div > img {
+    width: 50px;
+    padding-top: 100px;
+}
+
+.Block7 > div > p {
+    padding-top: 50px;
+    color: white;
+    font-size: 33px;
+    text-align: center;
+width: 611px;
+padding-left: 650px;
+margin-bottom: 50px;
+}
+
+.Button3 {
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+.But3 {
+    text-decoration: 0;
+    color: #00402F;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold, italic;
+}
+
+.Block8 {
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    max-width: 1920px;
+}
+
+.infinity4 {
+    max-width: 30px;
+    max-height: 25px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.Block8 > div {
+    padding-top: 50px;
+}
+
+.Text-2 {
+    padding-left: 150px;
+}
+
+.text1-2 {
+    padding-top: 30px;
+    padding-left: 150px;
+    width: 440px;
+    height: 70px;
+    font-size: 20px;
+    color: #00402F;
+}
+
+.text1-3 {
+    padding-top: 30px;
+    padding-left: 150px;
+    width: 430px;
+    height: 70px;
+    font-size: 15px;
+    color: #00402F;
+}
+
+.text2-1 {
+    padding-left: 150px;
+    color: #00402F;
+    width: 405px;
+    font-size: 15px;
+}
+
+.text2-3 {
+    padding-left: 142px;
+    color: #00402F;
+    width: 445px;
+    font-size: 15px;
+}
